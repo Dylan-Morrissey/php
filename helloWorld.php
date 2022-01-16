@@ -7,7 +7,9 @@
   <body>
 
     <?php
-      echo("Hello World!");
+      echo("<h1>Dylan's Sites</h1>");
+      echo "<hr>";
+      echo "<p>This is my site</p>";
      ?>
 
   </body>
